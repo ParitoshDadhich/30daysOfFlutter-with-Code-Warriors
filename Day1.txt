@@ -1,0 +1,27 @@
+# What is Flutter?
+Futter is a UI toolkit for building fast, beautiful, natively compiled applications for mobile, web, and desktop with one programming language and single codebase. It's free and open
+source. Initially, it was developed from Google and now manages by an ECMA standard. Flutter apps use Dart programming language for creating an app.
+
+# What makes Flutter unique?
+Flutter is different from other frameworks because it neither uses WebView nor the OEM widgets that are shipped with the device. Instead, it uses its high-performance rendering
+engine to draw widgets. It also implements most of its systems such as animations, gestures, and widgets in Dart programming language that allows developers to read, change, replace, or remove things easily. It gives excellent control to the developers over the system.
+
+# Features of Flutter
+1. Open - Source
+2. Hot Reload
+3. Widgets
+4. Cross-Platform
+5. Minimal code
+6. Accessible Native Features and SDKs
+
+# Advantages of Flutter
+1. It makes the app development process extremely fast because of the hot - reload feature.
+2. Flutter reduces the time and efforts of testing.
+3. It provides the smoother and seamless scrolling experiences of using the app without much hands or cuts, which makes running applications faster in comparison to other mobile
+app development frameworks.
+
+# Disadvantages of Flutter
+1. The Flutter is a comparatively new language that needs continuous integration support through the maintenance of scripts.
+2. It uses Dart programming language for coding, so a developer needs to learn new programming languages. However, it is easy to learn for developers.
+3. It provides very limited access to SDK libraries. It means a developer does not have a lot of functionalities to create a mobile application. Such types of functionalities need
+not to be developed by the Flutter developers themselves but practically it makes work a lot easy.
