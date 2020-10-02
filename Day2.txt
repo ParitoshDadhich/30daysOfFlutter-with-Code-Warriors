@@ -1,0 +1,7 @@
+Discuss regarding Flutter installation:
+1. Discuss system requirements 
+2. Install Flutter SDK and the things which need to take care while installing and performing different tasks
+3. Android Studio Download
+4. How to connect your system device with your mobile phone and how to run on a virtual device
+5. Download the required plugins
+6. Download Git
